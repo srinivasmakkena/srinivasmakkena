@@ -34,7 +34,10 @@
 
 ## My GitHub Stats
 
-![Srinivas Makkena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinivasmakkena&show_icons=true&theme=transparent&hide_rank=true)
+<div align="center">
+  <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasmakkena&hide=scss" />
+  <img height="250px" src="https://github-readme-stats.vercel.app/api?username=srinivasmakkena&show_icons=true&theme=transparent&hide_rank=true" />
+</div>
 
 ---
 ## Technical Skills
