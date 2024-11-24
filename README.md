@@ -17,7 +17,7 @@ Known for my problem-solving skills and agility in adopting new technologies, I 
 
 ## My GitHub Stats
 
-![Srinivas Makkena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinivasmakkena&show_icons=true&theme=dracula&hide_rank=true)
+![Srinivas Makkena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinivasmakkena&show_icons=true&theme=transparent&hide_rank=true)
 
 ---
 
