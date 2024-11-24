@@ -1,14 +1,14 @@
 <!--# Srinivas Makkena--> 
 <!--## Animated Badge--> 
 
-![Srinivas Makkena](https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Srinivas%20Makkena&fontColor=00000&fontAlign=50&animation=twinkling&section=header&reversal=false)
+![Srinivas Makkena](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Srinivas%20Makkena&fontColor=00000&fontAlign=50&animation=twinkling&section=header&reversal=false)
 
-
-
-## About Me
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=fffff&center=true&vCenter=true&width=435&lines=Python+Developer;Django+Enthusiast;AI+Researcher;Cloud+Engineer;Spring+Boot+developer;Full+Stack+Developer" alt="Typing SVG">
 </p>
+
+## About Me
+
 <p>I am a <strong>Computer Science Master's graduate</strong> from <strong>Midwestern State University</strong>, with a strong passion for developing scalable and reliable software solutions. My expertise includes a broad range of technologies such as <strong>Python</strong>, <strong>Java</strong>, <strong>Django</strong>, <strong>Angular</strong>, <strong>AWS</strong>, and <strong>Git</strong>. I am experienced in both <strong>front-end</strong> and <strong>back-end development</strong>, and I am particularly drawn to working with <strong>cloud technologies</strong>, especially <strong>AWS</strong>.</p>
 
 <p>I am also deeply interested in <strong>AI</strong>, <strong>Machine Learning</strong>, and <strong>Web Development</strong>, constantly exploring new ways to apply these technologies in real-world applications. Known for my <strong>problem-solving abilities</strong> and <strong>adaptability</strong> to emerging technologies, I consistently deliver <strong>high-quality results</strong> in <strong>fast-paced, agile environments</strong>.</p>
