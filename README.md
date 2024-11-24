@@ -9,10 +9,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=fffff&center=true&vCenter=true&width=435&lines=Python+Developer;Django+Enthusiast;AI+Researcher;Cloud+Engineer;Spring+Boot+developer;Full+Stack+Developer" alt="Typing SVG">
 </p>
-I am a **Computer Science Master's graduate** from **Midwestern State University**, passionate about building scalable and reliable software solutions. My technical expertise spans **Python**, **Java**, **Django**, **Angular**, **AWS**, and **Git**. I have a strong background in both **front-end** and **back-end development**, and I thrive on **cloud technologies**, particularly **AWS**. I am deeply interested in **AI**, **Machine Learning**, and **Web Development**. 
+<p>I am a <strong>Computer Science Master's graduate</strong> from <strong>Midwestern State University</strong>, with a strong passion for developing scalable and reliable software solutions. My expertise includes a broad range of technologies such as <strong>Python</strong>, <strong>Java</strong>, <strong>Django</strong>, <strong>Angular</strong>, <strong>AWS</strong>, and <strong>Git</strong>. I am experienced in both <strong>front-end</strong> and <strong>back-end development</strong>, and I am particularly drawn to working with <strong>cloud technologies</strong>, especially <strong>AWS</strong>.</p>
 
-Known for my problem-solving skills and agility in adopting new technologies, I excel at delivering high-quality results in fast-paced, agile environments.
-
+<p>I am also deeply interested in <strong>AI</strong>, <strong>Machine Learning</strong>, and <strong>Web Development</strong>, constantly exploring new ways to apply these technologies in real-world applications. Known for my <strong>problem-solving abilities</strong> and <strong>adaptability</strong> to emerging technologies, I consistently deliver <strong>high-quality results</strong> in <strong>fast-paced, agile environments</strong>.</p>
 ---
 
 ## My GitHub Stats
