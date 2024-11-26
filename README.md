@@ -1,8 +1,12 @@
 <!--# Srinivas Makkena--> 
 <!--## Animated Badge--> 
 
-![Srinivas Makkena](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Srinivas%20Makkena&fontColor=00000&fontAlign=50&animation=twinkling&section=header&reversal=false)
-
+<div align="center">
+  <img width="50%" src="https://media.licdn.com/dms/image/v2/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=CnRVzwRdVIeSExy5yqTsgcM1fIiaB_7ebywnXjOeauo" />
+  
+  ![Srinivas Makkena](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Srinivas%20Makkena&fontColor=00000&fontAlign=50&animation=twinkling&section=header&reversal=false)  
+</div>
+  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=fffff&center=true&vCenter=true&width=435&lines=Python+Developer;Django+Enthusiast;AI+Researcher;Cloud+Engineer;Spring+Boot+developer;Full+Stack+Developer" alt="Typing SVG">
 </p>
