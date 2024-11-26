@@ -21,13 +21,14 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
-
 <details>
-  <summary>Click to View my resume</summary>
+  <summary>📄 **Click to View My Resume** 👨‍💼</summary>
 
-  ![Image Description](srinivas-makkena-resume-11-25-1.png)
-  [Download the PDF](https://drive.google.com/uc?export=download&id=1beGzYZ-lX32VoHSexcoWLniEaDnnGKcR)
+  ![Resume Preview](srinivas-makkena-resume-11-25-1.png)
+  
+  [🔽 **Download My Resume** 🔽](https://drive.google.com/uc?export=download&id=1beGzYZ-lX32VoHSexcoWLniEaDnnGKcR)
 </details>
+
 
 ---
 ## About Me
