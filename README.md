@@ -22,8 +22,14 @@
   </a>
 </p>
 
----
+<details>
+  <summary>Click to View my resume</summary>
 
+  ![Image Description](srinivas-makkena-resume-11-25-1.png)
+  [Download the PDF](https://drive.google.com/uc?export=download&id=1beGzYZ-lX32VoHSexcoWLniEaDnnGKcR)
+</details>
+
+---
 ## About Me
 
 <p>I am a <strong>Computer Science Master's graduate</strong> from <strong>Midwestern State University</strong>, with a strong passion for developing scalable and reliable software solutions. My expertise includes a broad range of technologies such as <strong>Python</strong>, <strong>Java</strong>, <strong>Django</strong>, <strong>Angular</strong>, <strong>AWS</strong>, and <strong>Git</strong>. I am experienced in both <strong>front-end</strong> and <strong>back-end development</strong>, and I am particularly drawn to working with <strong>cloud technologies</strong>, especially <strong>AWS</strong>.</p>
@@ -84,5 +90,6 @@ Here are some of my key technical skills:
 Feel free to explore my repositories, reach out to me via **email**, or connect with me on **LinkedIn**. I'm open to collaborations and exciting opportunities in software development, AI, and beyond.
 
 ---
+
 
 #### *Thanks for visiting my profile!*
