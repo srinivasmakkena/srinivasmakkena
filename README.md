@@ -46,7 +46,7 @@
 ## Technical Skills
 
 Here are some of my key technical skills:
-
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="GIF" style="max-width: 100%; height: 200px;">
 <ul>
     <li>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
