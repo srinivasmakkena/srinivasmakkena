@@ -22,7 +22,7 @@
   </a>
 </p>
 <details>
-  <summary>📄 **Click to View My Resume** 👨‍💼</summary>
+  <summary>📄 **Click to View & Download My Resume** 👨‍💼</summary>
 
   ![Resume Preview](srinivas-makkena-resume-11-25-1.png)
   
