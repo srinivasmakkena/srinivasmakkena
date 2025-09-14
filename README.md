@@ -28,7 +28,8 @@
 <details>
   <summary>📄 **Click to View & Download My Resume** 👨‍💼</summary>
 
-  ![Resume Preview](srinivas-makkena-resume-11-25-1.png)
+  ![Resume Preview](Resume-09-13-25-1.png)
+  ![Resume Preview](Resume-09-13-25-2.png)
   
   [🔽 **Download My Resume** 🔽](https://drive.google.com/file/d/1Sj202OmNSKnX1dLv0gdoUHw432K63VSe/view?usp=sharing)
 </details>
