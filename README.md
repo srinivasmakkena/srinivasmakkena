@@ -25,14 +25,28 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
-<details>
-  <summary>📄 **Click to View & Download My Resume** 👨‍💼</summary>
 
-  ![Resume Preview](Resume-09-13-25-1.png)
-  ![Resume Preview](Resume-09-13-25-2.png)
-  
-  [🔽 **Download My Resume** 🔽](https://drive.google.com/file/d/1Sj202OmNSKnX1dLv0gdoUHw432K63VSe/view?usp=sharing)
+## 📄 Resume
+
+<details>
+  <summary>📎 Click to Preview & Download My Resume</summary>
+
+  <br/>
+
+  <p align="center">
+    <img src="Resume-09-13-25-1.png" width="45%" />
+    <img src="Resume-09-13-25-2.png" width="45%" />
+  </p>
+
+  <p align="center">
+    <a href="https://drive.google.com/file/d/1Sj202OmNSKnX1dLv0gdoUHw432K63VSe/view?usp=sharing" target="_blank">
+      <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+    </a>
+  </p>
+
 </details>
+
+---
 
 
 ---
@@ -91,9 +105,19 @@ Here are some of my key technical skills:
 
 ---
 
-### Let's Connect!
+## 🤝 Let’s Connect
 
-Feel free to explore my repositories, reach out to me via **email**, or connect with me on **LinkedIn**. I'm open to collaborations and exciting opportunities in software development, AI, and beyond.
+<p align="center">
+  <a href="mailto:makkenaece@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/srinivas-makkena-230537229">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/srinivasmakkena">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
